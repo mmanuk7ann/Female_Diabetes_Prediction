@@ -1,5 +1,6 @@
 🩺 Female Diabetes Prediction Using Support Vector Machine (SVM)
 
+
 📌 Overview
 
 This project aims to build a machine learning system that predicts whether a female patient is likely to have diabetes, based on diagnostic measurements. Leveraging a Support Vector Machine (SVM) algorithm, the model achieves reliable classification performance by processing real-world health data.
