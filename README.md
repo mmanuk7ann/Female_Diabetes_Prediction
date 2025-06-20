@@ -8,8 +8,7 @@ This project aims to build a machine learning system that predicts whether a fem
 
 📂 Dataset
 
-The dataset was sourced from a publicly available file:
-Download Diabetes Dataset (CSV)
+The dataset was sourced from a publicly available file: https://www.dropbox.com/scl/fi/0uiujtei423te1q4kvrny/diabetes.csv?rlkey=20xvytca6xbio4vsowi2hdj8e&e=1&dl=0
 
 The dataset contains 768 records of female patients aged 21 or older.
 Features include:
