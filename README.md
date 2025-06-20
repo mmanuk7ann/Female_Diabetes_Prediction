@@ -28,18 +28,16 @@ To develop a predictive system that accurately classifies female patients as dia
 
 1. Data Collection & Exploration
 Loaded dataset from Dropbox CSV link
-Explored structure, data types, and missing values
-Performed statistical summaries and visualizations
+Explored structure, data types, 
+Performed statistical summaries 
 2. Data Preprocessing
 Standardized features using StandardScaler
-Handled any zeros or missing-like values for proper ML input
 Split data into training (80%) and testing (20%) sets
 3. Model Training
 Used Support Vector Machine (SVM) with a linear kernel
 Trained the model on the standardized training data
 4. Model Evaluation
-Evaluated accuracy on test data
-Generated classification reports (precision, recall, F1-score)
+Evaluated accuracy on data
 Built a prediction system for user-input data
 📊 Results
 
