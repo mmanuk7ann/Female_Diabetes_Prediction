@@ -1,6 +1,7 @@
 🩺 Female Diabetes Prediction Using Support Vector Machine (SVM)
 
 
+
 📌 Overview
 
 This project aims to build a machine learning system that predicts whether a female patient is likely to have diabetes, based on diagnostic measurements. Leveraging a Support Vector Machine (SVM) algorithm, the model achieves reliable classification performance by processing real-world health data.
@@ -21,6 +22,7 @@ BMI
 DiabetesPedigreeFunction
 Age
 The target variable is: Outcome (0 = non-diabetic, 1 = diabetic)
+
 🧠 Objective
 
 To develop a predictive system that accurately classifies female patients as diabetic or non-diabetic using their medical records, based on supervised learning.
