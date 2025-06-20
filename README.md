@@ -44,5 +44,9 @@ Built a prediction system for user-input data
 📊 Results
 
 Model: SVM Classifier (Linear Kernel)
-Accuracy Score: [insert accuracy score here]
+Accuracy Score: 79 %
 The predictive system shows promising results in identifying diabetic cases based on the input features.
+
+👨‍💻 Author
+
+Manuk Manukyan
