@@ -39,10 +39,12 @@ Trained the model on the standardized training data
 4. Model Evaluation
 Evaluated accuracy on data
 Built a prediction system for user-input data
+
 📊 Results
 
 Model: SVM Classifier (Linear Kernel)
 Accuracy Score: 79 %
+
 The predictive system shows promising results in identifying diabetic cases based on the input features.
 
 👨‍💻 Author
